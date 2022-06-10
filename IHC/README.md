@@ -167,7 +167,7 @@ O conteúdo deve ser suficientemente robusto para ser interpretado de forma fiá
 #### VERSÃO MOBILE
 > <img heigh="400px" width="400px" src ="https://github.com/gustavols/bertoti/blob/main/IHC/images/WCAG-D.png">
 >
->
+>Famosa Meinha Alegre
 
 
 → [Voltar ao topo](#topo)
